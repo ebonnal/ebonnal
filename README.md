@@ -1,4 +1,4 @@
-Looking forward to collaborating with you on:
+Looking forward to collaborating with you on...
 
 ⬇️ ...external contributions
 
