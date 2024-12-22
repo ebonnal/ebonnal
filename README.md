@@ -1,6 +1,6 @@
-Looking forward to collaborating with you on...
+Looking forward to collaborating with you on ...
 
-⬇️ ...external contributions
+... external contributions ⬇️ 
 
 |repo|contribution|status|
 |--|--|--|
@@ -9,4 +9,4 @@ Looking forward to collaborating with you on...
 |[sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)|[Add support for `ANY_VALUE(_ HAVING MIN/MAX _)` to BigQuery dialect](https://github.com/sqlfluff/sqlfluff/pull/5321)|✔️|
 
 -----
- ⬇️ ...my libraries 📌
+...my libraries ⬇️
