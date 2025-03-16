@@ -1,6 +1,6 @@
 Looking forward to collaborating with you on:
 
-external contributions ⬇️ 
+main external contributions ⬇️ 
 
 |repo|contribution|status|
 |--|--|--|
