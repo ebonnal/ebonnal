@@ -2,7 +2,7 @@ Looking forward to collaborating with you on:
 
 main external contributions ⬇️ 
 
-|repo|contribution|status|
+|repo|PR|status|
 |--|--|--|
 |[python/cpython](https://github.com/python/cpython)|[gh-131466: `concurrent.futures.Executor.map`: avoid temporarily exceeding `buffersize` while collecting the next result](https://github.com/python/cpython/pull/131467)|⚙️ wip|
 |[python/cpython](https://github.com/python/cpython)|[gh-74028: `concurrent.futures.Executor.map`: introduce `buffersize` param for lazier behavior](https://github.com/python/cpython/pull/125663)|✔️ merged|
