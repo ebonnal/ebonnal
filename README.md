@@ -1,6 +1,6 @@
 Looking forward to collaborating with you on:
 
-community contributions: 
+**community contributions:**
 
 |repo|PR|status|
 |--|--|--|
@@ -11,4 +11,4 @@ community contributions:
 |[sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)|[Add support for `ANY_VALUE(_ HAVING MIN/MAX _)` to BigQuery dialect](https://github.com/sqlfluff/sqlfluff/pull/5321)|✔️ merged|
 
 
-my projects ⬇️
+**my projects ⬇️**
