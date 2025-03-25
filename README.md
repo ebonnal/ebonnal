@@ -1,6 +1,6 @@
 Looking forward to collaborating with you on:
 
-**community contributions:**
+**contributions:**
 
 |repo|PR|status|
 |--|--|--|
