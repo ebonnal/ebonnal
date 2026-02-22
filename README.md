@@ -1,5 +1,3 @@
-Working on
-
 - cpython: [gh-131466: `concurrent.futures.Executor.map`: avoid temporarily exceeding `buffersize` while collecting the next result](https://github.com/python/cpython/pull/131467)
 
 - cpython: [gh-74028: `concurrent.futures.Executor`: avoid reference cycles when an exception is raised](https://github.com/python/cpython/pull/131701)
