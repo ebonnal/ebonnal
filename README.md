@@ -1,3 +1,7 @@
+### activity tracker
+
+- cpython: [`concurrent.futures.Executor.map` with `buffersize` should yield from buffer and raise after executor shutdown](https://github.com/python/cpython/issues/146392)
+
 - cpython: [gh-131466: `concurrent.futures.Executor.map`: avoid temporarily exceeding `buffersize` while collecting the next result](https://github.com/python/cpython/pull/131467)
 
 - cpython: [gh-74028: `concurrent.futures.Executor`: avoid reference cycles when an exception is raised](https://github.com/python/cpython/pull/131701)
